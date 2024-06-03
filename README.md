@@ -1,5 +1,6 @@
 Stroke Prediction Analysis
 The World Health Organization (WHO) reports that stroke accounts for around 11% of all deaths worldwide, making it the second most common cause of death. It is yet another health problem that has been observed to be spreading over the globe as a result of lifestyle modifications that ignore leading a healthy life and maintaining appropriate eating habits. Therefore, the development of an automated solution with artificial intelligence (AI) at its core has been made possible by newly developed electronic gadgets that capture health vitals. Thus, efforts to develop laboratory tests that predict stroke have begun, just like with heart illnesses. The information that is being offered here has a multitude of elements that highlight the patients' lifestyles, which presents a chance for us to develop an AI-based solution for it.
+
 Aim:
 The task involves binary classification and involves several numerical and category features.
 To classify / predict whether a patient can suffer a stroke.
